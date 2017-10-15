@@ -1,5 +1,5 @@
 # Competitive-Coding
-My solutions to some competitive coding problems in Hackerrank, Codechef and Codeforces. 
+My solutions to some competitive coding problems in Hackerrank and Codechef. 
 
 
 ## Coding Handles
@@ -7,5 +7,3 @@ My solutions to some competitive coding problems in Hackerrank, Codechef and Cod
 Codechef : aditya_5558
 
 Hackerrank : aditya_1997
-
-Codeforces : aditya_5558
